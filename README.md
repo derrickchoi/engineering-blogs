@@ -81,6 +81,7 @@
 * Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
+* Bild https://www.getbild.com/blog
 * Binary Studio https://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
 * BitTorrent http://engineering.bittorrent.com/
